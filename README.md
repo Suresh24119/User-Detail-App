@@ -28,48 +28,7 @@ A full-stack user management application with React Native (Expo) frontend and N
 - CORS enabled
 - JSON file database
 
-## Getting Started
 
-### Prerequisites
-- Node.js installed
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Suresh24119/User-Detail-App.git
-cd User-Detail-App
-```
-
-2. Install backend dependencies:
-```bash
-cd UserDetailBackend
-npm install
-```
-
-3. Install frontend dependencies:
-```bash
-cd ../UserDetailAppNative
-npm install
-```
-
-### Running the Application
-
-#### Start Backend Server
-```bash
-cd UserDetailBackend
-node server.js
-```
-Server will run on `http://localhost:3000`
-
-#### Start Native App
-```bash
-cd UserDetailAppNative
-npm start
-# or
-npx expo start
-```
 
 ## API Endpoints
 
